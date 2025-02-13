@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svr>
+	<region id="japan" name="Saikai" url="jp.login.pelcman.github.io" icon="icon_sever_01.png" status="1" />
+	<region id="korea" name="반환" url="korea.login.pelcman.github.io" icon="icon_sever_02.png" status="0" />
+	<region id="uswest" name="Reboot(west)" url="uswest.login.pelcman.github.io" icon="icon_sever_03.png" status="0" />
+	<region id="useast" name="Reboot(east)" url="useast.login.pelcman.github.io" icon="icon_sever_04.png" status="0" />
+</svr>
